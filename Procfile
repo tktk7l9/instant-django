@@ -1,1 +1,1 @@
-web: gunicorn <your-project-name>.wsgi --log-file -
+web: gunicorn <instant-django>.wsgi --log-file -
