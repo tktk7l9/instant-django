@@ -2,7 +2,7 @@ astroid==2.2.5
 certifi==2019.6.16
 chardet==3.0.4
 decorator==4.4.0
-Django==2.1.2
+Django==2.2.13
 django-crispy-forms==1.7.2
 django-filter==2.0.0
 ez-setup==0.9
